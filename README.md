@@ -9,6 +9,9 @@ OneAPI is an open, cross-architecture programming model that enables developers 
 
   ![image](https://github.com/noornish/Recipe_generator/assets/100520538/9c6b2d88-36b0-4dba-a340-257cc9ee4507)
 
+## OneDNN
+Intel oneDNN is a high-performance library for deep learning applications, optimized for Intel architectures. It accelerates neural network computations by leveraging low-level CPU instructions and parallel processing. Seamlessly integrating with frameworks like PyTorch and TensorFlow, it boosts efficiency and speeds up training and inference times.  This results in faster training and inference times, making deep learning applications more efficient and responsive.
+
 
 ## Model Training using  Intel DevCloud 
 Leveraging Intel Extension for PyTorch, our recipe generator model benefits from the accelerated development and deployment processes facilitated by Intel Developer Cloud. By harnessing Intel's GPU capabilities, we've significantly reduced training times, ensuring efficient model optimization and experimentation. This collaborative approach has led to remarkable speedups, enhancing the overall performance of our Recipe Generation model and streamlining the culinary creativity process.
